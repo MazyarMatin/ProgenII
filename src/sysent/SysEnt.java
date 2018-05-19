@@ -18,6 +18,7 @@ public class SysEnt {
         // TODO code application logic here
         System.out.println("hier ist die neue Klasse.");
         System.out.println("s");
+        System.out.println("Dies ist eine Laptop Version");
     }
     
 }
