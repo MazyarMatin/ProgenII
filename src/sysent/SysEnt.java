@@ -19,6 +19,7 @@ public class SysEnt {
         System.out.println("hier ist die neue Klasse.");
         System.out.println("s");
         System.out.println("Dies ist eine Laptop Version");
+        System.out.println("Nochmal ein Pc version");
     }
     
 }
